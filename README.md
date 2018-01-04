@@ -99,7 +99,7 @@ https://ibm-blockchain.github.io/
 ### Step 1: Prepare and Setup
 https://ibm-blockchain.github.io/setup/
 
-## Simple Install
+## Step 2 Simple Install
 https://ibm-blockchain.github.io/simple/
 
 https://ibm-blockchain.github.io/paid/setup/
