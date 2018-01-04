@@ -1,5 +1,7 @@
 # Workshop: Advanced Blockchain Workshop for Developers
 
+<img src="https://farm5.staticflickr.com/4689/24631379357_6871402136_m.jpg" width="240" height="160" alt="425 market street">
+
 <a href="http://ibm.biz/advchainsf"><img src="https://farm5.staticflickr.com/4596/39468207682_17288767da_z.jpg" width="983" height="157" alt="advchainsf"></a>
 
 
