@@ -102,6 +102,10 @@ https://ibm-blockchain.github.io/setup/
 ## Step 2 Simple Install
 https://ibm-blockchain.github.io/simple/
 
+<img src="https://farm5.staticflickr.com/4592/24636509627_21bf75d277_n.jpg" width="320" height="226" alt="Simple Install">
+
+
+
 https://ibm-blockchain.github.io/paid/setup/
 
 ## Step3: Interacting with your Blockchain
