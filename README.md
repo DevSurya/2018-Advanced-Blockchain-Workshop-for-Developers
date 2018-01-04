@@ -1,7 +1,9 @@
+# Workshop: Advanced Blockchain Workshop for Developers
+
 <a href="http://ibm.biz/advchainsf"><img src="https://farm5.staticflickr.com/4596/39468207682_17288767da_z.jpg" width="983" height="157" alt="advchainsf"></a>
 
-# Workshop: Advanced Blockchain Workshop for Developers
-## The workshop materials are all out on: ibm.biz/advchainsv
+
+## The workshop materials are all out on: http://ibm.biz/advchainsv
 
 # Housekeeping info:
 
