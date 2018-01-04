@@ -104,6 +104,8 @@ https://ibm-blockchain.github.io/simple/
 
 https://ibm-blockchain.github.io/paid/setup/
 
+## Step3: Interactinv with your Blockchain
+
 1. npm install -g composer-cli
 1. https://kubernetes.io/docs/tasks/kubectl/install/
 1. https://console.bluemix.net/docs/cli/reference/bluemix_cli/download_cli.html#download_install
