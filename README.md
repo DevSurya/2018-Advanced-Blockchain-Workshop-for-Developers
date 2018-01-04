@@ -85,12 +85,6 @@ It is deployed in a Hyper Ledger Fabric.
   
 <img src="https://farm5.staticflickr.com/4511/37561438920_efe78c324b_o.png" width="1169" height="199" alt="blockchain-banner2">
 
-## Prerequisites: 
-http://hyperledger-fabric.readthedocs.io/en/latest/prereqs.html
-
-Please note that it is crucial that you go thru the link above to verify that you have met the requirements for running Hyperledger on your laptop. Especially if the labs do'nt work. 
-
-We will be developing on our laptops. MacOS, Ubuntu or Windows. 
 
 # Lab 1: Setting up the environment 
 https://ibm-blockchain.github.io/
@@ -112,27 +106,9 @@ https://ibm-blockchain.github.io/setup/
 ## Step 2 Simple Install
 https://ibm-blockchain.github.io/simple/
 
-https://ibm-blockchain.github.io/paid/setup/
-
 ## Step3: Interacting with your Blockchain
 
-1. npm install -g composer-cli
-1. https://kubernetes.io/docs/tasks/kubectl/install/
-1. https://console.bluemix.net/docs/cli/reference/bluemix_cli/download_cli.html#download_install
-1. bx plugin repo-add bluemix https://plugins.ng.bluemix.net
-1. bx plugin install container-service -r bluemix
-1. bx api api.ng.bluemix.net
-1. bx login
-1. bx login -sso
-1. bx cs cluster-create --name blockchain
-1. bx cs clusters
-1. bx cs cluster-config blockchain
-
-
-
-1. At this point, if you followed the guide, you should have access to your instance of the Composer Playground. 
-2. Navigate to the Composer Playground.
-3. Click on the Launch Now button.
+https://ibm-blockchain.github.io/interacting
 
 
 <img src="https://farm5.staticflickr.com/4684/25629362468_5d1157ca25_m.jpg" width="240" height="133" alt="welcome">
