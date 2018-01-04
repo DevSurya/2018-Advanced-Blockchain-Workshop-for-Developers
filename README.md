@@ -106,17 +106,11 @@ What do you get?
 1. The basic-sample-network deployed
 
 
-https://ibm-blockchain.github.io/
-
 ### Step 1: Prepare and Setup
 https://ibm-blockchain.github.io/setup/
 
 ## Step 2 Simple Install
 https://ibm-blockchain.github.io/simple/
-
-
-
-
 
 https://ibm-blockchain.github.io/paid/setup/
 
