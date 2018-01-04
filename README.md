@@ -14,7 +14,6 @@ Your instructor: Lennart alf@us.ibm.com, Developer Advocate at IBM, focusing on 
 
 Syed Zaidi. Maya Reyes, Juanita Dion.
 
-
 # Agenda
 ~~~
 6:00: Sign-in, mingle, food, welcome, form teams 
@@ -94,6 +93,7 @@ Please note that it is crucial that you go thru the link above to verify that yo
 We will be developing on our laptops. MacOS, Ubuntu or Windows. 
 
 # Lab 1: Setting up the environment 
+https://ibm-blockchain.github.io/
 
 What do you get?
 
