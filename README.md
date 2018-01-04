@@ -93,9 +93,14 @@ Please note that it is crucial that you go thru the link above to verify that yo
 
 We will be developing on our laptops. MacOS, Ubuntu or Windows. 
 
-# Lab 1: [Develop in a cloud sandbox. IBM Blockchain Platform](https://ibm-blockchain.github.io/)
+# Lab 1: Setting up the environment 
+https://ibm-blockchain.github.io/
 
-This guide picks up during the “Interacting with your Blockchain” section after up after you have set up your development environment on IBM Container service as described here
+### Step 1: Prepare and Setup
+https://ibm-blockchain.github.io/setup/
+
+## Simple Install
+https://ibm-blockchain.github.io/simple/
 
 https://ibm-blockchain.github.io/paid/setup/
 
