@@ -1,6 +1,6 @@
 # 2018-Advanced-Blockchain-Workshop-for-Developers
 
-<a href="https://github.com/LennartFr/2018-Advanced-Blockchain-Workshop-for-Developers/edit/master/README.md"><img src="https://farm5.staticflickr.com/4596/39468207682_17288767da_z.jpg" width="640" height="102" alt="advchainsf"></a>
+<a href="https://github.com/LennartFr/2018-Advanced-Blockchain-Workshop-for-Developers/edit/master/README.md"><img src="https://farm5.staticflickr.com/4596/39468207682_17288767da_z.jpg" width="983" height="157" alt="advchainsf"></a>
 
 # Workshop: Introduction to writing Blockchain applications
 ## The workshop materials are all out on: ibm.biz/blockchaingalvanize
