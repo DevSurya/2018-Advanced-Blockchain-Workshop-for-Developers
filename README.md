@@ -94,6 +94,18 @@ Please note that it is crucial that you go thru the link above to verify that yo
 We will be developing on our laptops. MacOS, Ubuntu or Windows. 
 
 # Lab 1: Setting up the environment 
+
+What do you get?
+
+1. A pre-configured Fabric (blockchain runtime):
+   * Three Fabric CAs (one apiece for the orderer org and two peer orgs)
+   * Orderer node (running "solo")
+   * Two Fabric peer nodes (one apiece for each peer org - org1 & org2)
+   * Some example installed and instantiated chaincode
+1. Composer Playground (UI for creating and deploying Business Networks to Fabric)
+1. The basic-sample-network deployed
+
+
 https://ibm-blockchain.github.io/
 
 ### Step 1: Prepare and Setup
@@ -102,7 +114,7 @@ https://ibm-blockchain.github.io/setup/
 ## Step 2 Simple Install
 https://ibm-blockchain.github.io/simple/
 
-<img src="https://farm5.staticflickr.com/4592/24636509627_21bf75d277_n.jpg" width="320" height="226" alt="Simple Install">
+
 
 
 
