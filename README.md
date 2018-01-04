@@ -1,13 +1,11 @@
-# 2018-Advanced-Blockchain-Workshop-for-Developers
-
 <a href="https://github.com/LennartFr/2018-Advanced-Blockchain-Workshop-for-Developers/edit/master/README.md"><img src="https://farm5.staticflickr.com/4596/39468207682_17288767da_z.jpg" width="983" height="157" alt="advchainsf"></a>
 
-# Workshop: Introduction to writing Blockchain applications
-## The workshop materials are all out on: ibm.biz/blockchaingalvanize
+# Workshop: Advanced Blockchain Workshop for Developers
+## The workshop materials are all out on: ibm.biz/advchainsv
 
 # Housekeeping info:
 
-### Wifi at Galavanize SSID/pass = g|Events / machinelearning
+### Wifi at 425 Marker Street SSID/pass = XXX / XXX
 Your instructor: Lennart alf@us.ibm.com, Developer Advocate at IBM, focusing on Blockchain, Fintech and Watson.
 
 Marek Sadowski, Syed Zaidi. Maya Reyes, Juanita Dion.
