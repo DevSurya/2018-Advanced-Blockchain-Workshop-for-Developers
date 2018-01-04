@@ -96,7 +96,23 @@ We will be developing on our laptops. MacOS, Ubuntu or Windows.
 # Lab 1: [Develop in a cloud sandbox. IBM Blockchain Platform](https://ibm-blockchain.github.io/)
 
 This guide picks up during the “Interacting with your Blockchain” section after up after you have set up your development environment on IBM Container service as described here
-. 
+
+https://ibm-blockchain.github.io/paid/setup/
+
+1. npm install -g composer-cli
+1. https://kubernetes.io/docs/tasks/kubectl/install/
+1. https://console.bluemix.net/docs/cli/reference/bluemix_cli/download_cli.html#download_install
+1. bx plugin repo-add bluemix https://plugins.ng.bluemix.net
+1. bx plugin install container-service -r bluemix
+1. bx api api.ng.bluemix.net
+1. bx login
+1. bx login -sso
+1. bx cs cluster-create --name blockchain
+1. bx cs clusters
+1. bx cs cluster-config blockchain
+
+
+
 1. At this point, if you followed the guide, you should have access to your instance of the Composer Playground. 
 2. Navigate to the Composer Playground.
 3. Click on the Launch Now button.
