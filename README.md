@@ -12,9 +12,8 @@
 ### Wifi at 425 Marker Street SSID/pass = XXX / XXX
 Your instructor: Lennart alf@us.ibm.com, Developer Advocate at IBM, focusing on Blockchain, Fintech and Watson.
 
-Marek Sadowski, Syed Zaidi. Maya Reyes, Juanita Dion.
+Syed Zaidi. Maya Reyes, Juanita Dion.
 
-## Assumption: you have brought your laptop and you know enough about Blockchain to want to write Blockchain apps. 
 
 # Agenda
 ~~~
@@ -94,7 +93,17 @@ Please note that it is crucial that you go thru the link above to verify that yo
 
 We will be developing on our laptops. MacOS, Ubuntu or Windows. 
 
-# Lab 1: 
+# Lab 1: [Develop in a cloud sandbox. IBM Blockchain Platform](https://ibm-blockchain.github.io/)
+
+This guide picks up during the “Interacting with your Blockchain” section after up after you have set up your development environment on IBM Container service as described here
+. 
+1. At this point, if you followed the guide, you should have access to your instance of the Composer Playground. 
+2. Navigate to the Composer Playground.
+3. Click on the Launch Now button.
+
+
+<img src="https://farm5.staticflickr.com/4684/25629362468_5d1157ca25_m.jpg" width="240" height="133" alt="welcome">
+
 
 # Lab 2: Let's write an app with the Hyperledger Composer!
 <img src="https://farm5.staticflickr.com/4445/37751618086_06402e4b2e_b.jpg" width="383" height="266" alt="Composer Playground">
